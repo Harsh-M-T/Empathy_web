@@ -1,0 +1,5 @@
+# requirements.txt
+edge-tts
+transformers
+torch
+gradio
